@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.section{
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.home_title{
+    color: #3B06D2
+}
+
+.service_title{
+    color: #D206B2
+}
+
+.portfolio_title{
+    color: #AAD206
+}
+
+p{
+    padding-bottom: 20px;
+}
+
